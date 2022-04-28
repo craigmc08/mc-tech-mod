@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "techmod:copper_block"
+    }
+  ],
+  "result": {
+    "item": "techmod:copper_ingot",
+    "count": 9
+  }
+}

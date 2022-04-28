@@ -1,0 +1,6 @@
+{
+  "parent": "techmod:block/template_wire_north",
+  "textures": {
+    "all": "techmod:block/wire"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "multipart": [
+    { "apply": { "model": "techmod:block/wire_dot" } },
+    { "when": { "north": true }, "apply": { "model": "techmod:block/wire_north" } },
+    { "when": { "south": true }, "apply": { "model": "techmod:block/wire_north", "y": 180 } },
+    { "when": { "west": true }, "apply": { "model": "techmod:block/wire_north", "y": 270 } },
+    { "when": { "east": true }, "apply": { "model": "techmod:block/wire_north", "y": 90 } },
+    { "when": { "down": true }, "apply": { "model": "techmod:block/wire_north", "x": 90 } },
+    { "when": { "up": true }, "apply": { "model": "techmod:block/wire_north", "x": 270 } }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "itemGroup.techmod.tech_mod": "Tech Mod",
+
+  "item.techmod.copper_ingot": "Copper Ingot",
+  "item.techmod.copper_nugget": "Copper Nugget",
+  "block.techmod.copper_block": "Block of Copper",
+  "block.techmod.copper_ore": "Copper Ore",
+  
+  "item.techmod.copper_helmet": "Copper Helmet",
+  "item.techmod.copper_chestplate": "Copper Chestplate",
+  "item.techmod.copper_leggings": "Copper Leggings",
+  "item.techmod.copper_boots": "Copper Boots",
+
+  "item.techmod.copper_sword": "Copper Sword",
+  "item.techmod.copper_shovel": "Copper Shovel",
+  "item.techmod.copper_pickaxe": "Copper Pickaxe",
+  "item.techmod.copper_axe": "Copper Axe",
+  "item.techmod.copper_hoe": "Copper Hoe",
+
+  "item.techmod.copper_coil": "Copper Coil",
+  "item.techmod.heating_element": "Heating Element",
+
+  "block.techmod.arc_furnace": "Arc Furnace",
+  "block.techmod.heated_generator": "Heated Generator",
+
+  "gui.techmod.energy_storage": "Energy: %d/%d"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "techmod:block/arc_furnace_top",
+    "front": "techmod:block/arc_furnace_front",
+    "side": "techmod:block/arc_furnace_side"
+  }
+}

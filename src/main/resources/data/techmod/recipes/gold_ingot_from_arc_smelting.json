@@ -1,0 +1,10 @@
+{
+  "type": "techmod:arc_smelting",
+  "ingredient": {
+    "item": "minecraft:gold_ore"
+  },
+  "result": {
+    "item": "minecraft:gold_ingot",
+    "count": 2
+  }
+}

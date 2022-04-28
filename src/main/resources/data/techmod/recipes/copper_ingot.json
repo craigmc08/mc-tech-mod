@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "techmod:copper_ore"
+  },
+  "result": "techmod:copper_ingot",
+  "experience": 0.7
+}

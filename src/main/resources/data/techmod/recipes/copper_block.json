@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "iii",
+    "iii",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "item": "techmod:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "techmod:copper_block"
+  }
+}

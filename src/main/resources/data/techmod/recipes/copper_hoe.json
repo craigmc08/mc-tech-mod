@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ii ",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "i": {
+      "item": "techmod:copper_ingot"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "techmod:copper_hoe"
+  }
+}

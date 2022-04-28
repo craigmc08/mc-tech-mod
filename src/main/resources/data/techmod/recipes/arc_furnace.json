@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "oio",
+    "ihi",
+    "oco"
+  ],
+  "key": {
+    "o": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "h": {
+      "item": "techmod:heating_element"
+    },
+    "c": {
+      "item": "techmod:copper_coil"
+    }
+  },
+  "result": {
+    "item": "techmod:arc_furnace"
+  }
+}

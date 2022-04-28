@@ -1,0 +1,10 @@
+{
+  "type": "techmod:arc_smelting",
+  "ingredient": {
+    "item": "techmod:copper_ore"
+  },
+  "result": {
+    "item": "techmod:copper_ingot",
+    "count": 2
+  }
+}
